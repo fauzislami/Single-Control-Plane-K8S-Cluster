@@ -1,7 +1,6 @@
 <h1>Single Control-Plane Kubernetes Cluster</h1>
 
-<img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="40%">.
-
+![Logo](https://jhooq.com/wp-content/uploads/2019/06/Webinar_K8S101_K8slogo.png)
 
 <h2>Labs Prerequisites :</h2>
 

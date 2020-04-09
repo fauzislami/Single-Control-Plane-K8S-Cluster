@@ -19,6 +19,9 @@
    https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
    - Kubernetes for ubuntu xenial \
    https://packages.cloud.google.com/apt/dists/kubernetes-xenial
+   - Metal LB\
+   https://metallb.universe.tf/
+   
 
 *In this lab, i use use docker v18.09 and k8s v1.15 during this lab documentation creation in the present time. You might find the latest version of those in the future.*
 

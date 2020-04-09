@@ -1,4 +1,4 @@
-<h1>Kubernetes Single Cluster</h1>
+<h1>Single Control-Plane Kubernetes Cluster</h1>
 
 <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="40%">.
 
